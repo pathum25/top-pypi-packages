@@ -35,5 +35,5 @@ repos:
       - id: check-hooks-apply
       - id: check-useless-excludes
 
-ci:
+ci: pathum25 
   autoupdate_schedule: quarterly
